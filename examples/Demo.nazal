@@ -1,0 +1,61 @@
+{
+  "format": "nazal-project",
+  "version": 1,
+  "name": "Team Nazal Demo",
+  "tracks": [
+    {
+      "id": "track-0",
+      "name": "Beat",
+      "volume": 0.85,
+      "mute": false,
+      "solo": false,
+      "clips": [
+        {
+          "id": "clip-0",
+          "source": "audio/Beat.wav",
+          "start": 0,
+          "offset": 0,
+          "duration": 8,
+          "fadeIn": 0,
+          "fadeOut": 0.25
+        }
+      ]
+    },
+    {
+      "id": "track-1",
+      "name": "Melody",
+      "volume": 0.7,
+      "mute": false,
+      "solo": false,
+      "clips": [
+        {
+          "id": "clip-1",
+          "source": "audio/Melody.wav",
+          "start": 1,
+          "offset": 0,
+          "duration": 8,
+          "fadeIn": 0.2,
+          "fadeOut": 0.5
+        }
+      ]
+    },
+    {
+      "id": "track-2",
+      "name": "Pad",
+      "volume": 0.6,
+      "mute": false,
+      "solo": false,
+      "clips": [
+        {
+          "id": "clip-2",
+          "source": "audio/Pad.wav",
+          "start": 2,
+          "offset": 0,
+          "duration": 8,
+          "fadeIn": 1,
+          "fadeOut": 1
+        }
+      ]
+    }
+  ]
+}
