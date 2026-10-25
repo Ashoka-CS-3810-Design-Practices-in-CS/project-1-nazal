@@ -1,0 +1,6 @@
+build*/
+.DS_Store
+tmp/
+test-output/
+/AGENTS.md
+/output/
